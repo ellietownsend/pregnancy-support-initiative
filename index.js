@@ -7,10 +7,11 @@ box2.addEventListener("click", function(){
     puposeTabVisitied = true;
 })
 
-if(!puposeTabVisitied){
-    box3.addEventListener("click", function(){
-    alert("Please view our \"Purpose Statmenet\" tab before continuing to this section.")
+
+box3.addEventListener("click", function(){
+    if(!puposeTabVisitied){
+        alert("Please view our \"Purpose Statmenet\" tab before continuing to this section.")
+    }
 })
-}
 
 
