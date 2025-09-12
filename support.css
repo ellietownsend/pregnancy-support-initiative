@@ -1,0 +1,38 @@
+body{
+    background-color: #EDCFCF;
+    text-align: center;
+    font-family: "Salsa", cursive;
+    font-weight: 200;
+}
+
+#box{
+    background-color: #3F1E1D;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#support-title{
+    border-radius: 10px;
+    width: 774px;
+    height: 77px;
+    background-color: #FDF3DD;
+    font-size: 55px;
+    margin-bottom: 0px;
+}
+
+#support-description{
+    border-radius: 10px;
+    width: 1000px;
+    height: 104px;
+    background-color: #FDF3DD;
+    font-size: 16px;
+    padding: 10px 40px;
+}
+
+#hero{
+    color: #7D4C4B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}

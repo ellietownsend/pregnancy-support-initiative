@@ -1,0 +1,48 @@
+body{
+    background-image: url("images/Purpose-Statement-Background-Img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:  #B88886ff;
+    color: #F7F7F6;
+}
+
+#intro{
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5vw;
+    margin: 35px auto auto 27px;
+}
+
+h1{
+    font-family: "Salsa", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5vw;
+    text-shadow: -2px 2px 2px black;
+    height: 10vh;
+    width: 1095px;
+    margin: 29px 27px;
+}
+
+p{
+    margin: 27px;
+    font-family: "Salsa", cursive;
+    text-shadow: 0 1px 1px black;
+    font-size: 1.6vw;
+}
+
+footer{
+    text-align: center;
+    position: fixed;
+    bottom: 25px;
+    left: 0; 
+    right: 0; 
+    font-family: "Salsa", cursive;
+    color: #7D4C4B;
+    font-size: 1.6vw;
+}
+
+a{
+    color: #7D4C4B;
+}

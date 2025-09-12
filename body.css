@@ -1,0 +1,87 @@
+body{
+    background-color: #D19A99;
+    padding: 18px;
+    color: #F7F7F6;
+    text-align: center;
+}
+
+h1{
+    font-family: "Orelega One", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 0 5px 8px #70091D;
+    font-size: 50px;
+}
+
+h2{
+    font-family: "Salsa", cursive;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 5%;
+    line-height: 45px;
+    margin: 40px 80px;
+    font-size: 23px;
+}
+
+#directions{
+    margin: 10px;
+    font-size: 19px;
+}
+
+p{
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    width: 200px;
+    height: 500px; 
+    line-height: 20px;
+}
+
+#cards{
+    font-family: "Salsa", cursive;
+    font-size: 25px;
+    color: #70091D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Constipation, #Swelling, #Menstrual-Cycle, #Fatigue, #Dizziness, #Nausea{
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    background-color: #FDF3DD;
+    border-radius: 10px;
+    margin: 22px;
+    border: 5px solid #70091D;
+    width: 100px;
+    height: 250px;
+    padding: 20px;
+}
+
+#Constipation{
+    font-size: 23px;
+}
+
+span{
+    margin-top: 23px;
+}
+
+#dizziness-spacing{
+    margin-top: 40px;
+}
+
+
+#Menstrual-Cycle:hover, #Constipation:hover,#Swelling:hover, #Fatigue:hover, #Dizziness:hover, #Nausea:hover {
+    width: 180px;
+    height: 320px;
+}
+
+a{
+     color:#70091D;
+}
+
+h2 a{
+    color: #F7F7F6;
+}

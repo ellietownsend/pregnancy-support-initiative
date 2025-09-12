@@ -1,0 +1,33 @@
+body{
+    background-color: #7D4C4B;
+    font-family:"Salsa", cursive;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    width: 270px;
+    height: 230px;
+    margin: 30px 37px;
+}
+
+p{
+    font-size: 28px;
+    color:#F7F7F6;
+    letter-spacing: 10%;
+    margin: auto 122px;
+    line-height: 130%;
+}
+
+footer{
+    margin-top: 50px;
+    color: #F7F7F6;
+    font-size: 30px;
+}
+
+a{
+    color: #F7F7F6;
+}

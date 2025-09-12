@@ -1,0 +1,130 @@
+body{
+    background-color:#EDCFCF;
+    font-family: "Salsa", cursive;
+    font-weight: 400;
+    font-style: normal; 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+     
+}
+
+.sub-group {
+    display: flex;
+}
+
+
+.group{
+    display: flex;
+    flex-direction:column;
+}
+
+#box-1{
+    width: 200px;
+    height: 550px;
+    background-color:#7D4C4B;
+    color: #F7F7F6;
+    border-radius: 10px;
+    padding: 20px;
+    letter-spacing: 7%;
+    line-height: 60px;
+    text-shadow: 0 2px 1px black;
+    font-size: 24px;
+    font-family: inherit;
+    box-shadow: 5px 5px 10px black;
+    margin: 10px;
+
+}
+
+#opening-img{
+    width: 200px;
+    height: 290px;
+}
+
+.header {
+    margin-top: 10px;
+}
+
+.box{
+    width: 220px;
+    height: 220px;
+    color: #F7F7F6;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 20px;
+    margin: 32px 10px;
+}
+
+#box-2{
+    background-color: #D19A99;
+
+}
+
+#purpose-statement-img {
+    width: 120px;
+    height: 120px;
+}
+
+#box-3{
+    background-color: #BD7B79;
+}
+
+#welcome-message-img{
+    width: 100px;
+    height: 125px;
+}
+
+#box-4{
+    background-color: #C49392;
+}
+
+#first-steps-img {
+    width: 140px;
+    height: 140px;
+}
+
+#first-steps-header {
+    margin-top: 20px;
+}
+
+#box-5{
+    background-color: #A2605E;
+}
+
+
+#the-body-img{
+    width: 62px;
+    height: 148px;
+}
+
+#box-6{
+    background-color:#BD7B79;
+}
+
+#support-img{
+    width: 120px;
+    height: 150px;
+}
+
+#box-7{
+    background-color:#E1AAAA;
+}
+
+#final-message-img {
+    width: 192px;
+    height: 130px;
+}
+#final-message-header {
+    margin: 9px;
+}
+
+#support{
+    margin: 0px;
+}
+
+a{
+    color: #F7F7F6;
+}
